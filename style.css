@@ -56,6 +56,7 @@
     background-color: rgba(0, 0, 255, 0.728);
     padding: 5px;
     border-radius: 5px;
+    color: white;
 }
 
 .text{
@@ -112,6 +113,7 @@
     border-radius: 5px;
     background-color: rgba(0, 0, 255, 0.728);
     font-weight: 600;
+    color: white;
 }
 
 .a{
